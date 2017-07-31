@@ -1,5 +1,4 @@
 import React from 'react';
-import css from './App';
 
 class App extends React.Component {
   constructor(){
